@@ -4,4 +4,4 @@ myapp = Flask(__name__)
 
 @myapp.route("/")
 def hello():
-    return "Hello From Heroku CLI"
+    return "Hello From Heroku Test"
